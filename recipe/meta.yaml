@@ -1,4 +1,4 @@
-{% set version = "0.3.2" %}
+{% set version = "1.0.0" %}
 
 package:
   name: bmipy
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://github.com/csdms/bmi-python/archive/v{{ version }}.tar.gz
-  sha256: c1f5cc8e638c65ef93ebeb9c8bf147db9ca90de6289655326543ff71f6f9f17e
+  sha256: 4981869020bacb8a6c495727ef4d83742a9ede19a86e5fff90bea7ea6ae1b81d
 
 build:
   number: 0
