@@ -119,4 +119,5 @@ Feedstock Maintainers
 =====================
 
 * [@mcflugen](https://github.com/mcflugen/)
+* [@mdpiper](https://github.com/mdpiper/)
 
