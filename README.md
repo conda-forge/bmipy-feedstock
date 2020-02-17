@@ -1,7 +1,7 @@
 About bmipy
 ===========
 
-Home: http://github.com/csdms/bmipy
+Home: http://github.com/csdms/bmi-python
 
 Package license: MIT
 
