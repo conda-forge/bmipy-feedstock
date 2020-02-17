@@ -6,10 +6,10 @@ package:
 
 source:
   url: https://github.com/csdms/bmi-python/archive/v{{ version }}.tar.gz
-  sha256: 8f9698cee8832715d8b6826b6a1c9610990ae05a175dafcadafa6c2a58907c21
+  sha256: 187e321636b2d0d4636aa70880f789dc8c5d95a05ed106353dd3e48462b9f5e0
 
 build:
-  number: 0
+  number: 1
   noarch: python
   script: "{{ PYTHON }} -m pip install . --no-deps -vv"
   entry_points:
@@ -51,3 +51,4 @@ about:
 extra:
   recipe-maintainers:
     - mcflugen
+    - mdpiper
