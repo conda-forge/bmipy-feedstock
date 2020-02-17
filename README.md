@@ -1,7 +1,7 @@
 About bmipy
 ===========
 
-Home: http://github.com/csdms/bmi-python
+Home: http://github.com/csdms/bmipy
 
 Package license: MIT
 
@@ -119,4 +119,5 @@ Feedstock Maintainers
 =====================
 
 * [@mcflugen](https://github.com/mcflugen/)
+* [@mdpiper](https://github.com/mdpiper/)
 
